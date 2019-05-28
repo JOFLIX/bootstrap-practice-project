@@ -1,0 +1,49 @@
+@media(min-width: 768px){
+     .bd-placeholder-img-lg{
+       font-size:3.5rem;
+     }
+.jumbotron{
+      background-image: url(/home/moringa/Desktop/bootstrap-practice-projects/Assignment_1/assets/backgrounds/about.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      
+
+
+     }
+.navbar{
+  float: right;
+}
+a{
+  color:white;
+  font-weight: bold;
+  font-size-adjust: auto;
+  font-size: 22px;
+}
+.text-center{
+  color:white;
+  font-size: 44px;
+}
+#cent{
+   font-size: 26px;
+}
+.img-fluid{
+    text-align: center;
+    padding-left: 50%;
+    padding-right: 30%;
+
+}
+#danger{
+     display:block;
+     float:right;
+     flex-direction:row;
+     padding-top:10 %;
+}
+
+#checkbox{
+    background-color: rgb(204, 204, 153)
+    border:1px rgb(204, 204, 153)
+}
+
+.card{  background-color: rgb(204, 204, 153)}
